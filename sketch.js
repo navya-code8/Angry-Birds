@@ -110,7 +110,7 @@ function mouseReleased(){
 
 }
 
-async function bgChange(){
+/*async function bgChange(){
  
   var aPI = await fetch("http://worldclockapi.com/api/json/pst/now");
   var apiData = await aPI.json();
@@ -130,7 +130,7 @@ async function bgChange(){
 
   }
 
-}
+}*/
 
 function keyPressed(){
 
