@@ -139,7 +139,7 @@ function keyPressed(){
     bird.trajectory = [];
 
 
-    console.log("display")
+    console.log("display");
 
     Matter.Body.setPosition(bird.body, {x:200,y:50})
     
